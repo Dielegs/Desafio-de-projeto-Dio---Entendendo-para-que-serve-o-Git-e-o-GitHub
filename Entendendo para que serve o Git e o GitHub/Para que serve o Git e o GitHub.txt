@@ -1,0 +1,10 @@
+GIT-Software de controle de versão (vcs).
+ versionamento
+ Repositório local
+ Modelo distribuído
+
+GITHUB-Plataforma de rede social para programadores.
+ Repositório remoto
+ Carateristicas de rede social
+ Colaboração entre programadores
+
